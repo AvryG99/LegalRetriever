@@ -1,0 +1,8 @@
+colab-xterm==0.2.0
+langchain==0.2.12
+langchain_community==0.2.11
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.0.1
+chromadb==0.5.5
+streamlit==1.37.1
+unstructured==0.15.1
