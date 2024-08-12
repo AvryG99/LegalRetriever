@@ -9,7 +9,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import DirectoryLoader
-file_path = '<path to Object_casedocs>'
+file_path = 'Object_casedocs'
 
 loader = DirectoryLoader(file_path)
 docs = loader.load()
